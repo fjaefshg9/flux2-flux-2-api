@@ -2,7 +2,7 @@
 
 > **1MP $0.024; 2MP $0.036; 3MP $0.048** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-be2b44)** · **[Get an API key](https://go.apimart.ai/k-5af865)**
 
 Everything here refers to **flux-2** — also written **flux2** or **flux 2**.
 
